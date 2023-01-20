@@ -6,3 +6,5 @@
 
 [node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 1 )
+hframes = 7
+vframes = 6
