@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://art/mf main menu placeholder.png" type="Texture" id=1]
+[ext_resource path="res://art/main_menu/mf main menu placeholder.png" type="Texture" id=1]
 
 [node name="MainMenu" type="Node"]
 
