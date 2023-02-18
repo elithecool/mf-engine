@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mf player.png-6f8b95ef15030f58bedf7bfb393e1ce1.stex"
+path="res://.import/mf slope flip.png-dbc7c141a32f94981de4f6eccc670b04.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/player/mf player.png"
-dest_files=[ "res://.import/mf player.png-6f8b95ef15030f58bedf7bfb393e1ce1.stex" ]
+source_file="res://art/tiles/mf slope flip.png"
+dest_files=[ "res://.import/mf slope flip.png-dbc7c141a32f94981de4f6eccc670b04.stex" ]
 
 [params]
 
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=false
+detect_3d=true
 svg/scale=1.0
